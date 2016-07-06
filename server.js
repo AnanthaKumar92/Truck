@@ -2,7 +2,7 @@ var express = require('express'); // call express
 var app = express(); // define our app using express
 var bodyParser = require('body-parser');
 var firebase = require('firebase');
-var methodOverride = require('method-override');
+//var methodOverride = require('method-override');
 
 // app.use(require('express-jquery')('/jquery.js'));
 
